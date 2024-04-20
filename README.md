@@ -4,7 +4,7 @@ This project demonstrates how to create a simple popup window using HTML, CSS, a
 
 ## Demo
 
-You can see a live demo of the project [here](https://prachinayakal.github.io/PopUp-Window/) (Replace # with the actual link to your demo).
+You can see a live demo of the project [here](https://prachinayakal.github.io/PopUp-Window/) 
 
 ## Usage
 
